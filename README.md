@@ -1,4 +1,15 @@
-## Hi there 👋
+💻 Hello, world! I'm BlackSabbatique 🚀
+
+
+🔧 Engineer in the making | Passionate about Energy & Mobility
+⚡ Interests: Automotive, Sustainable Energy, Mechatronics, and Software Development
+🏎️ Cars, Innovation, and Technology drive me forward!
+
+🔹 Tech Stack & Tools
+🚀 Programming: Python, C++, C#
+🔌 Embedded Systems: CAN, Vector CANalyzer, ECU development, INCA
+📊 Data & Simulation: Simulink, Excel VBA, GitHub Actions
+⚙️ Engineering & Energy: Sustainable solutions, and low-tech 
 
 <!--
 **Amael75/Amael75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
